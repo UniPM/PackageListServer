@@ -6,54 +6,44 @@
       "CopyRight": "UniPM",
       "Version": "0.0.0",
       "PackagePath": "Assets/Example/UniPM",
-      "ReleaseNote": null,
-      "DownloadURL": "http://code.putao.io/liqingyun/PTGamePluginServer/raw/master/UniPM/UniPM.zip",
-      "ConfigFilePath": "Assets/Example/UniPM/Package.json"
+      "ReleaseNote": "",
+      "DownloadURL": "/raw/master/UniPM/UniPM.zip",
+      "ConfigFilePath": "Assets/Example/UniPM.asset",
+      "name": "Package",
+      "hideFlags": 0
     },
     {
-      "Name": "QFramework",
-      "CopyRight": "UniPM",
-      "Version": "0.0.0",
-      "PackagePath": "Assets/QFramework",
-      "ReleaseNote": null,
-      "DownloadURL": "https://github.com/UniPM/PackageListServer/raw/master/QFramework/QFramework.zip",
-      "ConfigFilePath": "Assets/QFramework/Package.json"
-    },
-    {
-      "Name": "Core",
+      "Name": "QFramework.Core",
       "CopyRight": "UniPM",
       "Version": "0.0.0",
       "PackagePath": "Assets/QFramework/Core",
-      "ReleaseNote": null,
+      "ReleaseNote": "",
       "DownloadURL": "/raw/master/Core/Core.zip",
-      "ConfigFilePath": "Assets/QFramework/Core/Package.json"
+      "ConfigFilePath": "Assets/QFramework/Core.asset",
+      "name": "Package",
+      "hideFlags": 0
     },
     {
-      "Name": "CSharp",
+      "Name": "QFramework.Core.CSharp",
       "CopyRight": "UniPM",
       "Version": "0.0.0",
       "PackagePath": "Assets/QFramework/Core/CSharp",
-      "ReleaseNote": null,
+      "ReleaseNote": "",
       "DownloadURL": "/raw/master/CSharp/CSharp.zip",
-      "ConfigFilePath": "Assets/QFramework/Core/CSharp/Package.json"
+      "ConfigFilePath": "Assets/QFramework/Core/CSharp.asset",
+      "name": "Package",
+      "hideFlags": 0
     },
     {
-      "Name": "Unity",
+      "Name": "QFramewwork.Core.Unity",
       "CopyRight": "UniPM",
       "Version": "0.0.0",
       "PackagePath": "Assets/QFramework/Core/Unity",
-      "ReleaseNote": null,
+      "ReleaseNote": "",
       "DownloadURL": "/raw/master/Unity/Unity.zip",
-      "ConfigFilePath": "Assets/QFramework/Core/Unity/Package.json"
-    },
-    {
-      "Name": "Framework",
-      "CopyRight": "UniPM",
-      "Version": "0.0.0",
-      "PackagePath": "Assets/QFramework/Framework",
-      "ReleaseNote": null,
-      "DownloadURL": "/raw/master/Framework/Framework.zip",
-      "ConfigFilePath": "Assets/QFramework/Framework/Package.json"
+      "ConfigFilePath": "Assets/QFramework/Core/Unity.asset",
+      "name": "Package",
+      "hideFlags": 0
     }
   ]
 }

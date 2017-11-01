@@ -1,9 +1,0 @@
-{
-  "Name": "CSharp",
-  "CopyRight": "UniPM",
-  "Version": "0.0.0",
-  "PackagePath": "Assets/QFramework/Core/CSharp",
-  "ReleaseNote": null,
-  "DownloadURL": "/raw/master/CSharp/CSharp.zip",
-  "ConfigFilePath": "Assets/QFramework/Core/CSharp/Package.json"
-}
