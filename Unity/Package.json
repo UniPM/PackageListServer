@@ -1,0 +1,9 @@
+{
+  "Name": "Unity",
+  "CopyRight": "UniPM",
+  "Version": "0.0.0",
+  "PackagePath": "Assets/QFramework/Core/Unity",
+  "ReleaseNote": null,
+  "DownloadURL": "/raw/master/Unity/Unity.zip",
+  "ConfigFilePath": "Assets/QFramework/Core/Unity/Package.json"
+}
