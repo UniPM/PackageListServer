@@ -2,36 +2,14 @@
   "PackageList": [],
   "InstalledPackageList": [
     {
-      "Name": "QFramework",
+      "Name": "PTFramework",
       "CopyRight": "UniPM",
       "Version": "0.0.1",
-      "PackagePath": "Assets/QFramework",
-      "ReleaseNote": "",
-      "DownloadURL": "https://github.com/UniPM/PackageListServer/raw/master/QFramework/QFramework.zip",
-      "ConfigFilePath": "Assets/QFramework.asset",
-      "name": "QFramework",
-      "hideFlags": 0
-    },
-    {
-      "Name": "UniPM",
-      "CopyRight": "UniPM",
-      "Version": "0.0.0",
-      "PackagePath": "Assets/Example/UniPM",
-      "ReleaseNote": "",
-      "DownloadURL": "https://github.com/UniPM/PackageListServer/raw/master/UniPM/UniPM.zip",
-      "ConfigFilePath": "Assets/Example/UniPM.asset",
-      "name": "UniPM",
-      "hideFlags": 0
-    },
-    {
-      "Name": "QFramework.Core",
-      "CopyRight": "UniPM",
-      "Version": "0.0.1",
-      "PackagePath": "Assets/QFramework/Core",
-      "ReleaseNote": "",
-      "DownloadURL": "https://github.com/UniPM/PackageListServer/raw/master/Core/Core.zip",
-      "ConfigFilePath": "Assets/QFramework/Core.asset",
-      "name": "Core",
+      "PackagePath": "Assets/PTUGame/PTFramework",
+      "ReleaseNote": "同步Singleton",
+      "DownloadURL": "https://github.com/UniPM/PackageListServer/raw/master/PTFramework/PTFramework.zip",
+      "ConfigFilePath": "Assets/PTUGame/PTFramework.asset",
+      "name": "PTFramework",
       "hideFlags": 0
     },
     {
